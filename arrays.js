@@ -1,5 +1,5 @@
 const array1= ['rojo', 'negro', 'amarillo'];
-const array2= ['verde','negro','rosa'];
+const array2= ['verde','beto','tomas'];
 
 function compareArray (array1, array2){
     const iguales=[]

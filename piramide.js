@@ -9,4 +9,4 @@ function piramide(num){
     }
 }
 
-piramide(6)
+piramide(10)
